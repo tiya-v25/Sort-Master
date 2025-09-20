@@ -42,8 +42,3 @@ To get this project up and running on your local machine, follow these simple st
 This project is a personal learning exercise and isn't actively seeking contributions at this time. However, feel free to fork the repository and experiment with it on your own!
 
 ---
-
-
-## 📄 License
-
-This project is licensed under the MIT License - see the `LICENSE.md` file for details.
